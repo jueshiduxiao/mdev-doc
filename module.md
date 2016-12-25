@@ -8,7 +8,7 @@ src/module
 
 * module只能是单实例。
 
-* module被框架统一创建，可以访问的生命周期为beforeMount, mounted, beforeUpdate, updated。
+* module被框架统一创建，且永不销毁，可以访问的生命周期为beforeMount, mounted, beforeUpdate, updated。
 
 * module不可以使用props属性。
 
@@ -22,7 +22,6 @@ src/module
     <widget-demo></widget-demo>
 </div>
 ```
-
 
 
 
