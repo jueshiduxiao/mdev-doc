@@ -1,5 +1,5 @@
 # Summary
 
 * [安装](README.md)
-* [First Chapter](chapter1.md)
+* [框架模板](chapter1.md)
 
