@@ -1,7 +1,7 @@
 # Summary
 
 * [安装](README.md)
-* [框架模板](chapter1.md)
+* [框架模板](框架模板.md)
 * [先行版](先行版.md)
 * [vue](vue.md)
     * [目录结构](目录结构.md)
@@ -13,4 +13,5 @@
         * [memory-router实例](memory-router实例.md)
         * [对组件注入](对组件注入.md)
         * [api](api.md)
+        * [配置](状态路由-配置.md)
 
