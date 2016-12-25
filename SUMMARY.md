@@ -13,4 +13,6 @@
         * [memory-router实例](memory-router实例.md)
         * [对组件注入](对组件注入.md)
         * [配置](状态路由-配置.md)
+        * [router-link](router-link.md)
+        * [router-view](router-view.md)
 
