@@ -1,4 +1,4 @@
-src/module
+src/ui/module
 
 说明：
 

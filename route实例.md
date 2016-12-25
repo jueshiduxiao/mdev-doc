@@ -1,17 +1,13 @@
 属性
 
-* $route.path
+* route.path
   * 类型：String
-* $route.params
+* route.params
   * 类型：Object
-* $route.query
+* route.query
   * 类型：Object
-* $route.fullPath
+* route.fullPath
   * 类型：String
-
-
-
-
 
 
 

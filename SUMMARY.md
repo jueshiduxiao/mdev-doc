@@ -12,6 +12,5 @@
         * [route实例](route实例.md)
         * [memory-router实例](memory-router实例.md)
         * [对组件注入](对组件注入.md)
-        * [api](api.md)
         * [配置](状态路由-配置.md)
 
