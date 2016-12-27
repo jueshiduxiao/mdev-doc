@@ -1,7 +1,6 @@
 # Summary
 
 ## 基础
-* [\/](README.md)
 * [安装](安装.md)
 * [先行版](先行版.md)
 * [框架模板](框架模板.md)
@@ -19,4 +18,6 @@
     * [路由配置](状态路由-配置.md)
     * [router-link](router-link.md)
     * [router-view](router-view.md)
+* [JQuery](jquery.md)
+* [\/](README.md)
 
