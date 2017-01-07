@@ -8,7 +8,7 @@
 
   required
 
-  表示目标路由的链接。当被点击后，内部会立刻把 to 的值传到 memory-router.pushState\(\)。
+  表示目标路由的链接。当被点击后，内部会立刻把 href 的值传到 memory-router.pushState\(\)。
 
 ```html
 <!-- 字符串 -->
