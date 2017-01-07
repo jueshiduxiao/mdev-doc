@@ -12,15 +12,7 @@
 
 ```html
 <!-- 字符串 -->
-<router-link href="home">Home</router-link>
-<!-- 渲染结果 -->
-<a href="home">Home</a>
-
-<!-- 使用 v-bind 的 JS 表达式 -->
-<router-link v-bind:href="'home'">Home</router-link>
-
-<!-- 不写 v-bind 也可以，就像绑定别的属性一样 -->
-<router-link :href="'home'">Home</router-link>
+<router-link href="/home">Home</router-link>
 ```
 
 
